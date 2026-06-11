@@ -53,6 +53,24 @@ const projects = [
     description:
       "Cognitive games suite — blackjack, poker, chess, puzzles, and more vs AI opponent Jeeves. Kotlin, Jetpack Compose, and Room.",
   },
+  {
+    name: "Meal Mate",
+    url: "https://github.com/Otterdays/Meal_Mate",
+    description:
+      "Personal meal planning and food inventory app for Android. Track pantry items, browse recipes, all stored locally with Room and Compose.",
+  },
+  {
+    name: "MC Companion Map",
+    url: "https://github.com/Otterdays/MC-Companion-Map",
+    description:
+      "Minecraft Fabric mod plus Android companion for a live overhead world map over local WiFi. Polls chunk and player data from your PC and renders it on your phone.",
+  },
+  {
+    name: "Proof of Purchase",
+    url: "https://github.com/Otterdays/Proof-of-Purchase",
+    description:
+      "Production receipt manager with on-device OCR and financial insights — no cloud. Scan, auto-crop, and track spending with CameraX, ML Kit, and Room.",
+  },
 ];
 
 const list = document.getElementById("projects");

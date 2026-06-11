@@ -21,3 +21,9 @@ Index of Android projects by [Otterdays](https://github.com/Otterdays).
 - **[Nebula Camera](https://github.com/Otterdays/Nebula-Camera)** — Premium Android camera app with dark glassmorphism UI and a Gravity Orb stability assistant. CameraX, zoom presets, and gallery in Compose.
 
 - **[Brain Busters](https://github.com/Otterdays/Brain-Busters)** — Cognitive games suite — blackjack, poker, chess, puzzles, and more vs AI opponent Jeeves. Kotlin, Jetpack Compose, and Room.
+
+- **[Meal Mate](https://github.com/Otterdays/Meal_Mate)** — Personal meal planning and food inventory app for Android. Track pantry items, browse recipes, all stored locally with Room and Compose.
+
+- **[MC Companion Map](https://github.com/Otterdays/MC-Companion-Map)** — Minecraft Fabric mod plus Android companion for a live overhead world map over local WiFi. Polls chunk and player data from your PC and renders it on your phone.
+
+- **[Proof of Purchase](https://github.com/Otterdays/Proof-of-Purchase)** — Production receipt manager with on-device OCR and financial insights — no cloud. Scan, auto-crop, and track spending with CameraX, ML Kit, and Room.
