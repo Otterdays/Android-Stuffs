@@ -11,3 +11,5 @@ Index of Android projects by [Otterdays](https://github.com/Otterdays).
 - **[Arteria](https://github.com/Otterdays/GAME-Arteria)** — Cosmic idle RPG inspired by Melvor Idle and RuneScape. React Native (Expo) with a headless TypeScript engine and offline progression.
 
 - **[Arteria V2](https://github.com/Otterdays/Arteria-V2-Gradle-Edition-Reloaded)** — Native Android rebuild of Arteria — idle RPG with offline ticks, skills, crafting, and combat. Kotlin, Jetpack Compose, and Room persistence.
+
+- **[Android Game 4](https://github.com/Otterdays/Android-Game-4)** — Random Godot side project for Android. GDScript, shaders, and mobile export experiments.

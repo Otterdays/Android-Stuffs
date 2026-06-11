@@ -23,6 +23,12 @@ const projects = [
     description:
       "Native Android rebuild of Arteria — idle RPG with offline ticks, skills, crafting, and combat. Kotlin, Jetpack Compose, and Room persistence.",
   },
+  {
+    name: "Android Game 4",
+    url: "https://github.com/Otterdays/Android-Game-4",
+    description:
+      "Random Godot side project for Android. GDScript, shaders, and mobile export experiments.",
+  },
 ];
 
 const list = document.getElementById("projects");
