@@ -12,10 +12,16 @@ const projects = [
       "Tablet-first Android IDE with an AI agent loop. Split editor, SAF workspace, streaming tools, and git/shell — built in Jetpack Compose.",
   },
   {
+    name: "Arteria",
+    url: "https://github.com/Otterdays/GAME-Arteria",
+    description:
+      "Cosmic idle RPG inspired by Melvor Idle and RuneScape. React Native (Expo) with a headless TypeScript engine and offline progression.",
+  },
+  {
     name: "Arteria V2",
     url: "https://github.com/Otterdays/Arteria-V2-Gradle-Edition-Reloaded",
     description:
-      "Native Android idle RPG with offline ticks, skills, crafting, and combat. Kotlin, Jetpack Compose, and Room persistence.",
+      "Native Android rebuild of Arteria — idle RPG with offline ticks, skills, crafting, and combat. Kotlin, Jetpack Compose, and Room persistence.",
   },
 ];
 
