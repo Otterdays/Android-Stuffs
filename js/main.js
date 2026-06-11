@@ -29,6 +29,30 @@ const projects = [
     description:
       "Random Godot side project for Android. GDScript, shaders, and mobile export experiments.",
   },
+  {
+    name: "Lorenzez Notez",
+    url: "https://github.com/Otterdays/Lorenzez-Notez",
+    description:
+      "Collaborative family note-taking app for Android. Room for private notes, Firebase for shared family sync, and invite-link groups.",
+  },
+  {
+    name: "Shadow Pulse",
+    url: "https://github.com/Otterdays/Shadow-Pulse",
+    description:
+      "Dark atmospheric survival game — dodge shadows, collect fragments, and manage your light. Kotlin and Jetpack Compose.",
+  },
+  {
+    name: "Nebula Camera",
+    url: "https://github.com/Otterdays/Nebula-Camera",
+    description:
+      "Premium Android camera app with dark glassmorphism UI and a Gravity Orb stability assistant. CameraX, zoom presets, and gallery in Compose.",
+  },
+  {
+    name: "Brain Busters",
+    url: "https://github.com/Otterdays/Brain-Busters",
+    description:
+      "Cognitive games suite — blackjack, poker, chess, puzzles, and more vs AI opponent Jeeves. Kotlin, Jetpack Compose, and Room.",
+  },
 ];
 
 const list = document.getElementById("projects");
